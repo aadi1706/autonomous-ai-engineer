@@ -42,7 +42,7 @@ Task → Planning → Code Generation → Debug → Review → Score → Store T
 
 ---
 
-##️ How To Run
+️ How To Run
 
 1. Install Ollama  
 2. Pull model:

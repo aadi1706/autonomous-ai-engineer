@@ -1,10 +1,10 @@
-# 🤖 Autonomous AI Software Engineer
+# Autonomous AI Software Engineer
 
 A self-improving autonomous AI agent capable of generating, reviewing, and evolving code using local Large Language Models via Ollama.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Task-based code generation
 - Self-review and scoring system
@@ -15,7 +15,7 @@ A self-improving autonomous AI agent capable of generating, reviewing, and evolv
 
 ---
 
-## 🧠 Architecture
+## Architecture
 
 The system consists of multiple internal agents:
 
@@ -32,7 +32,7 @@ Task → Planning → Code Generation → Debug → Review → Score → Store T
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python 3
 - Ollama
@@ -42,7 +42,7 @@ Task → Planning → Code Generation → Debug → Review → Score → Store T
 
 ---
 
-## ▶️ How To Run
+##️ How To Run
 
 1. Install Ollama  
 2. Pull model:
@@ -61,7 +61,7 @@ python3 agent.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 core/        → AI engine modules  
@@ -73,7 +73,7 @@ dashboard.py → Optional UI
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Multi-agent parallel execution
 - Cloud deployment
@@ -81,6 +81,4 @@ dashboard.py → Optional UI
 - API integration
 - Reinforcement learning loop
 
----
 
-Built by Aadi Rawat 🚀
